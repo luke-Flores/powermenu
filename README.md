@@ -1,5 +1,5 @@
 # Powermenu
-This is a menu that is reccomended to be activated by a taskbar or other launcher to start poweroff, reboot, or sleep. It is a simple terminal program and I reccomend doing <TERMINAL-EMULATOR> /path/to/powermenu to activate it.
+This is a menu that is reccomended to be activated by a taskbar or other launcher to start poweroff, reboot, or sleep. It is a simple terminal program and I reccomend doing `<TERMINAL-EMULATOR> /path/to/powermenu` to activate it.
 ## Install
 run `cargo build --release` to build and the binary will be under ./target/release/powermenu
 ## Note
